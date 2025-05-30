@@ -7,7 +7,7 @@ Kaggle’daki “Fake News Detection” veri setini kullanarak;
 3. Model performans değerlendirmesi,  
 4. Kısa bir sahte haber örneği üretme  
 
-adımlarını gerçekleştirdik.
+adımlarını gerçekleştirdim.
 
 ---
 
